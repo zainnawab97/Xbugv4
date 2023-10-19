@@ -1,35 +1,35 @@
 //base by xbug (Xeon Bot Inc.)
-//YouTube: @saadibrahim900
-//Instagram: saadibrahim900
-//Telegram: t.me/saad143s
-//GitHub: @Saad143ss
-//WhatsApp: +923156157942
-//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@Saadibrahim_900
+//YouTube: @zainibhaii
+//Instagram: zainibhai
+//Telegram: t.me/darkheart
+//GitHub: @darkheart
+//WhatsApp: +923074060856
+//want more free bot scripts? subscribe to my youtube channel: https://youtu.be/TnUAvasM-1k
 
 const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "923156157942"
-global.ownername = "Saad ibrahim"
-global.ytname = "saadibrahim"
-global.socialm = "GitHub: Saad143ss"
+global.ownernomer = "92307060856"
+global.ownername = "Dark Heart"
+global.ytname = "zainibhaii"
+global.socialm = "GitHub: zainnawab97"
 global.location = "Dg khan"
 
-global.ownernumber = '923156157942'  //creator number
-global.ownername = 'Saad ibrahim' //owner name
-global.botname = 'SaadXBUG' //name of the bot
+global.ownernumber = '923074060856'  //creator number
+global.ownername = 'Dark Heart🖤' //owner name
+global.botname = 'DARK HEART🖤 BUG' //name of the bot
 
 //sticker details
-global.packname = 'Sticker By'
-global.author = 'Saad\n\nContact: +923156157942'
+global.packname = 'Sticker By Dark Heart🖤'
+global.author = 'Dark Heart\n\nContact: +923074060856'
 
 //console view/theme
-global.themeemoji = '🪀'
-global.wm = "Saad."
+global.themeemoji = '🖤'
+global.wm = "Dark."
 
 //theme link
-global.link = 'https://chat.whatsapp.com/DNw2r2zMZIZGGuKXxxN2aY'
+global.link = 'https://chat.whatsapp.com/KhZQtcBal1yIQJGvAAWbAC'
 
 //custom prefix
 global.prefa = ['']
@@ -53,7 +53,7 @@ global.typemenu = 'v1'
 //reply messages
 global.mess = {
     done: 'Done !',
-    prem: 'This feature can be used by premium user only',
+    prem: 'This feature can be used by premium user only, Dark Heart🖤',
     admin: 'This feature can be used by admin only',
     botAdmin: 'This feature can only be used when the bot is a group admin ',
     owner: 'This feature can be used by owner only',
@@ -63,7 +63,7 @@ global.mess = {
     error: 'Error!',
 }
 
-global.thumb = fs.readFileSync('./XeonMedia/thumb.jpg')
+global.thumb = fs.readFileSync('./XeonMedia/thumb4.jpg')
 
 let file = require.resolve(__filename)
 fs.watchFile(file, () => {
